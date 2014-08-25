@@ -88,5 +88,5 @@ pubsub.publish('example1', 'hello again! (this will fail)');
 
 // Version_1
 (fuction(){
-	test;
+	console.log("ssssssssss");
 })();
